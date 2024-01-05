@@ -1,7 +1,7 @@
 <h1 align="center">Hey, je suis Charles</h1>
 <h3 align="center">Etudiant en école d'ingénieur en Informatique et Cybersécurité</h3>
 
-- 🔭 Je travaille sur : **une API pour Destiny 2**
+- 🔭 Je travaille sur : **un projet avec l'API de Destiny 2**
 
 - 🌱 Actuellement j'apprends : **Le DevOps, la CyberSécurité, Java, Windows Server, et bien d'autres !**
 
